@@ -40,3 +40,16 @@ font-family: YekanBakh;
   color: #bdbdbd;
   float: left;
 }
+.navbar{
+    width: 100%;
+    height: 106px;
+}
+.navbar-brand{
+    font-size: 40px;
+    padding-right: 120px;
+    display:inline-block;
+}
+.navbar-nav{
+    
+    padding-left:800px;
+}
