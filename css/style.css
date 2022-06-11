@@ -3,6 +3,8 @@
     height: 42px;
     padding: 9px 137px 13.6px 140px;
     background-color: #212121;
+    position: absolute;
+    
 }
 .vala-ul li {
     float: right;
