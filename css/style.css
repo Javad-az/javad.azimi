@@ -70,3 +70,8 @@ font-family: YekanBakh;
     
     
 }
+.search-icon{
+    position: relative;
+    left: 410px;
+    top: 5px;
+}
